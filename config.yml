@@ -1,0 +1,194 @@
+presets:
+  global:
+    accept_all: true
+    transmission:
+      host: localhost
+      port: 9091
+      addpaused: No
+      ratio: 0.01
+      removewhendone: Yes
+      path: "/Volumes/Gizur/Anime/{{task}}/"
+tasks:
+  # 2014-01
+  SoniAni - Super Sonico The Animation:
+    rss: http://bt.ktxp.com/rss-search-%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6+%E8%B6%85%E7%BA%A7%E7%B4%A2%E5%B0%BC%E5%AD%90+GB+720P+MP4.xml
+  Saki - Zenkoku Hen:
+    rss: http://bt.ktxp.com/rss-search-%E5%8B%95%E6%BC%AB%E5%9C%8B+%E5%A4%A9%E6%89%8D%E9%BA%BB%E5%B0%87%E5%B0%91%E5%A5%B3+%E5%85%A8%E5%9C%8B%E7%AF%87+720P+%E7%B9%81%E9%AB%94+MP4.xml
+  Saikin, Imouto no Yousu ga Chotto Okashiinda ga.:
+    rss: http://bt.ktxp.com/rss-search-DHR+%E6%9C%80%E8%BF%91%EF%BC%8C%E5%A6%B9%E5%A6%B9%E7%9A%84%E6%A8%A3%E5%AD%90%E6%9C%89%E9%BB%9E%E6%80%AA%EF%BC%9F+%E7%B9%81%E9%AB%94+720P.xml
+  Tonari no Seki-kun:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E9%84%B0%E5%BA%A7%E5%90%8C%E5%AD%B8%E6%98%AF%E6%80%AA%E5%92%96+BIG5.xml
+  Nisekoi:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E4%BC%AA%E6%81%8B+%E7%AE%80%E4%BD%93+MP4+720p.xml
+  Wake Up, Girls!:
+    rss: http://bt.ktxp.com/rss-search-%E7%99%BD%E6%9C%88%E5%AD%97+Wake+Up+Girls+%E7%B9%81%E9%AB%94+720P.xml
+  Noragami:
+    rss: http://bt.ktxp.com/rss-search-Dymy+%E9%87%8E%E8%89%AF%E7%A5%9E+1280X720+MP4.xml
+  Seitokai Yakuindomo *:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E5%A6%84%E6%83%B3%E5%AD%A6%E7%94%9F%E4%BC%9A%EF%BC%8A+MP4+720p.xml
+  # 2014-04
+  Gokukoku no Brynhildr:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA%E5%AD%A6%E5%9B%AD+%E6%9E%81%E9%BB%91%E7%9A%84%E5%B8%83%E4%BC%A6%E5%B8%8C%E5%B0%94%E5%BE%B7+MP4+720p.xml
+  Kanojo ga Flag o Oraretara:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA%E5%AD%A6%E5%9B%AD+%E5%A6%82%E6%9E%9C%E6%8A%98%E6%96%AD%E5%A5%B9%E7%9A%84%E6%97%97+MP4+720p.xml
+  Isshuukan Friends.:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA%E5%AD%A6%E5%9B%AD+%E4%B8%80%E5%91%A8%E7%9A%84%E6%9C%8B%E5%8F%8B+MP4+720p.xml
+  魔法科高校の劣等生 The irregular at magic high school:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E4%B8%AD%E7%9A%84%E5%8A%A3%E7%AD%89%E7%94%9F+BIG5+720P+MP4.xml
+  Soredemo Sekai wa Utsukushii:
+    rss: http://bt.ktxp.com/rss-search-%E5%BC%82%E5%9F%9F+%E5%B0%BD%E7%AE%A1%E5%A6%82%E6%AD%A4%E4%B8%96%E7%95%8C%E4%BE%9D%E7%84%B6%E7%BE%8E%E4%B8%BD++%E7%AE%80%E4%BD%93+MP4.xml
+  Black Bullet:
+    rss: http://bt.ktxp.com/rss-search-%E5%8B%95%E6%BC%AB%E5%9C%8B+%E6%BC%86%E9%BB%91%E7%9A%84%E5%AD%90%E5%BD%88+720P+%E7%B9%81%E9%AB%94+MP4.xml
+  Soul Eater Not!:
+    rss: http://bt.ktxp.com/rss-search-Dymy+%E5%99%AC%E9%AD%82%E5%B8%ABNOT+BIG5+1280X720+MP4.xml
+  selector infected WIXOSS:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+WIXOSS+GB_CN+720p+MP4.xml
+  Seikoku no Dragonar:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E6%98%9F%E5%88%BB%E7%9A%84%E9%BE%99%E9%AA%91%E5%A3%AB+GB+720P.xml
+  Blade & Soul:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E5%89%91%E7%81%B5+MP4+720p.xml
+  Captain Earth:
+    rss: http://bt.ktxp.com/rss-search-Dymy+%E5%9C%B0%E7%90%83%E9%9A%8A%E9%95%B7+BIG5.xml
+  Break Blade:
+    rss: http://bt.ktxp.com/rss-search-%E8%90%8C%E6%9C%88+%E7%A0%B4%E5%88%83%E4%B9%8B%E5%89%91+%E7%AE%80%E7%B9%81+1280x720+AAC.xml
+  メカクシティアクターズ:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E7%9B%AE%E9%9A%90%E9%83%BD%E5%B8%82%E7%9A%84%E6%BC%94%E7%BB%8E%E8%80%85+%E7%AE%80%E4%BD%93+MP4+720p.xml
+  ノーゲーム・ノーライフ:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F+MP4+720p.xml
+  蟲師 続章:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E8%99%AB%E5%B8%88+%E7%BB%AD%E7%AB%A0+GB+720P+MP4.xml
+  僕らはみんな河合荘:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E6%88%91%E4%BB%AC%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%B2%B3%E5%90%88%E5%BA%84+GB+720P+MP4.xml
+  悪魔のリドル riddle story of devil:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E6%81%B6%E9%AD%94%E8%B0%9C%E9%A2%98+GB+MP4+720p.xml
+  ご注文はうさぎですか?:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E8%AF%B7%E9%97%AE%E6%82%A8%E4%BB%8A%E5%A4%A9%E8%A6%81%E6%9D%A5%E7%82%B9%E5%85%94%E5%AD%90%E5%90%97%EF%BC%9F+MP4+720p.xml
+  ジョジョの奇妙な冒険 スターダストクルセイダース:
+    rss: http://bt.ktxp.com/rss-search-%E6%82%A0%E5%93%88%E7%92%83%E7%BE%BD+JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%9A%AA+BIG5+720P+mp4.xml
+  ピンポン THE ANIMATION:
+    rss: http://bt.ktxp.com/rss-search-%E8%B1%8C%E8%B1%86+%E4%B9%92%E4%B9%93+BIG5+%E7%B9%81%E9%AB%94+720P.xml
+  ハイキュー!!:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E6%8E%92%E7%90%83+GB+720P.xml
+  龍ヶ嬢七々々の埋蔵金:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E9%BE%99%E5%AC%A2%E4%B8%83%E4%B8%83%E4%B8%83%E7%9A%84%E5%9F%8B%E8%97%8F%E9%87%91+GB+MP4+720P.xml
+  犬神さんと猫山さん:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E7%8A%AC%E7%A5%9E%E5%90%8C%E5%AD%B8%E5%92%8C%E8%B2%93%E5%B1%B1%E5%90%8C%E5%AD%B8+GB+720P+MP4.xml
+  シドニアの騎士:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E5%B8%8C%E5%BE%B7%E5%B0%BC%E4%BA%9E%E7%9A%84%E9%AA%91%E5%A3%AB+GB+MP4+720P.xml
+  健全ロボ ダイミダラー DAIMIDALER THE SOUND ROBOT:
+    rss: http://bt.ktxp.com/rss-search-DHR+%E5%81%A5%E5%85%A8%E6%9C%BA%E6%96%97%E5%A3%AB+%E7%AE%80%E4%BD%93+720P+MP4.xml
+  棺姫のチャイカ:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E6%A3%BA%E5%A7%AC%E5%98%89%E4%BE%9D%E5%8D%A1+GB+MP4_720P.xml
+  風雲維新ダイ☆ショーグン:
+    rss: http://bt.ktxp.com/rss-search-%E6%83%A1%E9%AD%94%E5%B3%B6+%E9%A2%A8%E9%9B%B2%E7%B6%AD%E6%96%B0%E5%A4%A7%E5%B0%87%E8%BB%8D+BIG5+720P+MP4.xml
+  M3 ~ソノ黒キ鋼~:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+M3+%E9%82%A3%E9%BB%91%E9%92%A2+GB+720P+MP4.xml
+  # 2014-07
+  東京喰種:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E4%B8%9C%E4%BA%AC%E5%96%B0%E7%A7%8D+GB+MP4_720P.xml
+  グラスリップ:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA%E5%AD%A6%E5%9B%AD+%E7%8E%BB%E7%92%83%E5%94%87%E5%8D%B0+MP4+720p.xml
+  人生:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E4%BA%BA%E7%94%9F+GB_CN+720p+MP4.xml
+  Sword Art Online II:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F%E2%85%A1+%E7%AE%80+720p+MP4.xml
+  アルドノア・ゼロ:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+Aldnoah.Zero+GB+720P+MP4.xml
+  Rail Wars!:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+RAIL+WARS%21+%E7%AE%80%E4%BD%93720p+MP4.xml
+  Re：␣ハマトラ:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+RE%EF%BC%9A%E6%BB%A8%E8%99%8E+GB+MP4_720P.xml
+  アオハライド:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E9%97%AA%E7%83%81%E7%9A%84%E9%9D%92%E6%98%A5+GB+MP4.xml
+  東京ESP:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E4%B8%9C%E4%BA%ACESP+GB+MP4_720P.xml
+  六畳間の侵略者！？:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E4%B8%89%E5%9D%AA%E6%88%BF%E9%97%B4%E7%9A%84%E4%BE%B5%E7%95%A5%E8%80%85+MP4+720p.xml
+  残響のテロル:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%93%8D+GB+MP4+720p.xml
+  ばらかもん:
+    rss: http://bt.ktxp.com/rss-search-Dymy+%E5%85%83%E6%B0%A3%E5%9B%9D%E4%BB%94+BIG5+1280X720+MP4.xml
+  月刊少女野崎くん:
+    rss: http://bt.ktxp.com/rss-search-%E5%8A%A8%E6%BC%AB%E5%9B%BD+%E6%9C%88%E5%88%8A%E5%B0%91%E5%A5%B3%E9%87%8E%E5%B4%8E%E5%90%9B+720P+%E7%AE%80%E4%BD%93+MP4.xml
+  Love Stage!!:
+    rss: http://bt.ktxp.com/rss-search-Dymy+Love+Stage+1280X720+BIG5+MP4.xml
+  # 2014-10
+  デンキ街の本屋さん:
+    rss: http://bt.ktxp.com/rss-search-%E8%BC%95%E4%B9%8B%E5%9C%8B%E5%BA%A6+%E9%9B%BB%E5%99%A8%E8%A1%97%E7%9A%84%E6%BC%AB%E7%95%AB%E5%BA%97+720P+%E7%B9%81%E9%AB%94+MP4.xml
+  TERRA FORMARS:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E7%81%AB%E6%98%9F%E7%95%B0%E7%A8%AE+BIG5+MP4+720P.xml
+  アカメが斬る!:
+    rss: http://bt.ktxp.com/rss-search-Dymy+%E6%96%AC%21%E8%B5%A4%E7%B4%85%E4%B9%8B%E7%9E%B3+BIG5+1280X720+MP4.xml
+  Fate stay night - UNLIMITED BLADE WORKS:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+Fate%2Fstay+night+Unlimited+Blade+Works+GB+720P.xml
+  甘城ブリリアントパーク:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E7%94%98%E5%9F%8E%E8%BE%89%E7%85%8C%E4%B9%90%E5%9B%AD%E6%95%91%E4%B8%96%E4%B8%BB+GB+MP4+720P.xml
+  寄生獣 セイの格率:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E5%AF%84%E7%94%9F%E5%85%BD+%E7%94%9F%E5%91%BD%E7%9A%84%E5%87%86%E5%88%99+GB+MP4+720p.xml
+  旦那が何を言っているかわからない件:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E5%85%B3%E4%BA%8E%E5%AE%8C%E5%85%A8%E5%90%AC%E4%B8%8D%E6%87%82%E8%80%81%E5%85%AC%E5%9C%A8%E8%AF%B4%E4%BB%80%E4%B9%88%E7%9A%84%E4%BA%8B+GB+720P+MP4.xml
+  大図書館の羊飼い:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%9A%84%E7%89%A7%E7%BE%8A%E4%BA%BA+MP4+720p.xml
+  サイコパス 2:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E5%BF%83%E7%90%86%E6%B5%8B%E9%87%8F%E8%80%852+GB+MP4_720P.xml
+  繰繰れ! コックリさん:
+    rss: http://bt.ktxp.com/rss-search-DHR+%E9%8A%80%E4%BB%99+%E7%B9%81%E9%AB%94+720P+MP4.xml
+  異能バトルは日常系のなかで:
+    rss: http://bt.ktxp.com/rss-search-%E9%BB%91%E5%B7%9D+%E6%97%A5%E5%B8%B8%E7%B3%BB%E7%9A%84%E5%BC%82%E8%83%BD%E6%88%98%E6%96%97+GB+720P+MP4.xml
+  クロスアンジュ 天使と竜の輪舞:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+CROSSANGE+GB+720P+MP4.xml
+  七つの大罪 The Seven Deadly Sins:
+    rss: http://bt.ktxp.com/rss-search-%E5%8A%A8%E6%BC%AB%E5%9B%BD+%E4%B8%83%E5%A4%A7%E7%BD%AA+720P+%E7%AE%80%E4%BD%93+MP4.xml
+  トリニティセブン:
+    rss: http://bt.ktxp.com/rss-search-DHR+TRINITY+SEVEN+%E7%B9%81%E9%AB%94+720P+MP4.xml
+  SHIROBAKO:
+    rss: http://bt.ktxp.com/rss-search-%E8%8F%AF%E7%9B%9F+%E7%99%BD%E7%AE%B1+%E7%B9%81%E9%AB%94+720p_MP4.xml
+  失われた未来を求めて:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E5%AF%BB%E6%89%BE%E5%A4%B1%E5%8E%BB%E7%9A%84%E6%9C%AA%E6%9D%A5+GB+MP4+720P.xml
+  俺, ツインテールになります.:
+    rss: http://bt.ktxp.com/rss-search-%E5%8A%A8%E6%BC%AB%E5%9B%BD+%E6%88%91%2C%E8%A6%81%E6%88%90%E4%B8%BA%E5%8F%8C%E9%A9%AC%E5%B0%BE+720P+%E7%AE%80%E4%BD%93+MP4.xml
+  四月は君の嘘:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%8E%E8%A8%80+MP4+720p.xml
+  神撃のバハムート GENESIS:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E4%B9%8B%E6%80%92GENESIS+BIG5+MP4_720P.xml
+  グリザイアの果実 -LE FRUIT DE LA GRISAIA-:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E7%81%B0%E8%89%B2%E7%9A%84%E6%9E%9C%E5%AE%9E+MP4+720p.xml
+  天体のメソッド:
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E5%A4%A9%E4%BD%93%E7%9A%84%E6%96%B9%E5%BC%8F+MP4+720p.xml
+  ワールドトリガー:
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E5%A2%83%E7%95%8C%E8%A7%B8%E7%99%BC%E8%80%85+BIG5+MP4_720P.xml
+  魔弾の王と戦姫:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E9%AD%94%E5%BC%B9%E4%B9%8B%E7%8E%8B%E4%B8%8E%E6%88%98%E5%A7%AC+GB+mp4+720p.xml
+  ログ・ホライズン:
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+LOG+HORIZON+The+2nd+Series+GB+MP4+720p.xml
+  牙狼〈GARO〉-炎の刻印-:
+    rss: http://bt.ktxp.com/rss-search-%E5%85%89%E3%81%AE%E5%BD%B1+%E7%89%99%E7%8B%BC%EF%BD%9E%E7%82%8E%E4%B9%8B%E5%88%BB%E5%8D%B0%EF%BD%9E+720p+TVrip.xml
+  暁のヨナ -The girl standing in the blush of dawn-: # 晨曦公主
+    rss: http://bt.ktxp.com/rss-search-%E5%8A%A8%E6%BC%AB%E5%9B%BD+%E6%99%A8%E6%9B%A6%E5%85%AC%E4%B8%BB+720P+%E7%AE%80%E4%BD%93+MP4.xml
+  # 2015-01
+  神様はじめました◎: # 元氣少女緣結神◎
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E5%85%83%E6%B0%A3%E5%B0%91%E5%A5%B3%E7%B5%90%E7%B7%A3%E7%A5%9E+BIG5+MP4_720P.xml
+  アブソリュート・デュオ: # 絕對雙刃
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E7%BB%9D%E5%AF%B9%E5%8F%8C%E5%88%83+GB+MP4_720P.xml
+  ユリ熊嵐: # 百合熊风暴
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E7%99%BE%E5%90%88%E7%86%8A%E9%A3%8E+GB+MP4+720p.xml
+  The Rolling Girls: # 旋转少女
+    rss: http://bt.ktxp.com/rss-search-%E5%8D%83%E5%A4%8F+%E6%97%8B%E8%BD%AC%E5%B0%91%E5%A5%B3+MP4.xml
+  暗殺教室: # 暗殺教室
+    rss: http://bt.ktxp.com/rss-search-%E6%A5%B5%E5%BD%B1+%E6%9A%97%E6%AE%BA%E6%95%99%E5%AE%A4+BIG5.xml
+  デス・パレード: # 死亡游行
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E6%AD%BB%E4%BA%A1%E6%B8%B8%E8%A1%8C+MP4+GB.xml
+  幸腹グラフィティ: # 幸腹涂鸦
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E5%B9%B8%E8%85%B9%E6%B6%82%E9%B8%A6+GB+MP4.xml
+  冴えない彼女の育てかた: # 路人女主的养成方法
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E8%B7%AF%E4%BA%BA%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%85%BB%E6%88%90%E6%96%B9%E6%B3%95+GB+MP4.xml
+  銃皇無尽のファフニール: # 铳皇无尽的法夫纳
+    rss: http://bt.ktxp.com/rss-search-%E5%B9%BB%E6%A8%B1+%E9%93%B3%E7%9A%87%E6%97%A0%E5%B0%BD%E7%9A%84%E6%B3%95%E5%A4%AB%E7%BA%B3++GB_MP4.xml
+  蒼穹のファフナー EXODUS: # 蒼穹之法芙娜-EXODUS-
+    rss: http://bt.ktxp.com/rss-search-Dymy+%E8%92%BC%E7%A9%B9%E4%B9%8B%E6%B3%95%E8%8A%99%E5%A8%9C+EXODUS+BIG5+MP4.xml
+  艦隊これくしょん -艦これ-: # 舰队Collection
+    rss: http://bt.ktxp.com/rss-search-%E6%BE%84%E7%A9%BA+%E8%88%B0%E9%98%9FCollection+MP4+720p.xml
+  新妹魔王の契約者: # 新妹魔王的契约者
+    rss: http://bt.ktxp.com/rss-search-%E6%9E%81%E5%BD%B1+%E6%96%B0%E5%A6%B9%E9%AD%94%E7%8E%8B%E7%9A%84%E5%A5%91%E7%BA%A6%E8%80%85+GB.xml
+  デュラララ!!x2 承: # 无头骑士异闻录×2承
+    rss: http://bt.ktxp.com/rss-search-%E5%8A%A8%E6%BC%AB%E5%9B%BD+%E6%97%A0%E5%A4%B4%E9%AA%91%E5%A3%AB%E5%BC%82%E9%97%BB%E5%BD%95%C3%972%E6%89%BF+720P+%E7%AE%80%E4%BD%93.xml
